@@ -1,0 +1,4 @@
+#Tue Mar 16 23:20:29 NPT 2021
+base.0=C\:\\Users\\unique\\Desktop\\FragmentExample_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
